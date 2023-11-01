@@ -25,5 +25,6 @@ Hyperspace original README is located [here](./README.theme.md).
 1. Starts a development server
 
         npm run develop
+        start
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
